@@ -3,6 +3,7 @@ _*
 *.o
 *.d
 *.asm
+!resenje.asm
 *.sym
 *.img
 vectors.S
